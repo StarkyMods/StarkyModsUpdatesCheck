@@ -1,1 +1,9 @@
-"1.0.1"
+{
+  "version": "1.0.0",
+  "title": "ASCENDIUM v1.0.1 - Patch",
+  "body": "After the release of Ascendium, we have included a few fixes and balancing for better experience. Thank you for playing!",
+  "es-ES": {
+    "title": "ASCENDIUM v1.0.1 - Parche",
+    "body": "Tras el lanzamiento de Ascendium, hemos incluido algunas correcciones y ajustes de equilibrio para una mejor experiencia. ¡Gracias por jugar!"
+  }
+}
